@@ -12,5 +12,5 @@ Also, I have endorsed some implementation techniques and tips from the following
 
 You can open the notebook in this repo and try to play with the code by yourself!
 
-Below is a sample of neural style transfer applied on one of my own images:
+Below is a sample of neural style transfer applied on one of my own images, transferring the style from the famous "scream" painting by Edvard Munch:
 ![](Sample_NST_img.png?raw=true "Title")
