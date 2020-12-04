@@ -10,5 +10,7 @@ Also, I have endorsed some implementation techniques and tips from the following
 * https://towardsdatascience.com/neural-networks-intuitions-2-dot-product-gram-matrix-and-neural-style-transfer-5d39653e7916
 * https://medium.com/@sashankpappu/style-transfer-using-pytorch-cb6225cf183e
 
+You can open the notebook in this repo and try to play with the code by yourself!
+
 Below is a sample of neural style transfer applied on one of my own images:
-[alt text](https://github.com/PouriaRouzrokh/Sample_NeuralStyleTransfer/Sample_NST_img.png?raw=true)
+![](Sample_NST_img.png?raw=true "Title")
